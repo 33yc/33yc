@@ -1,6 +1,4 @@
-<img src="https://i.postimg.cc/XY8ZDwd3/heroin-github.png">
 
----
 
 ### Languages:
 
