@@ -8,7 +8,7 @@
     Enthusiastic about building innovative solutions, contributing to open-source, and learning continuously. 
     <br />
     <br />
-    <a href="https://tryhackme.com/p/tilidin">TryHackMe</a> · 
+    <a href="https://tryhackme.com/p/33yx">TryHackMe</a> · 
     <a href="https://example.gov">Website</a> · 
     <a href="https://github.com/33yc/Steam-Checker">Favorite Repository</a>
   </p>
