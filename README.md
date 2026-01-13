@@ -9,7 +9,7 @@
     <br />
     <br />
     <a href="https://tryhackme.com/p/33yx">TryHackMe</a> · 
-    <a href="https://example.gov">Website</a> · 
+    <a href="https://33yc.github.io/">Website</a> · 
     <a href="https://github.com/33yc/Steam-Checker">Favorite Repository</a>
   </p>
 </p>
