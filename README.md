@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://github.com/heroin1337/">
+  <a href="https://github.com/33yc/">
     <img src="https://i.postimg.cc/CMR9Dsyj/profile-Icon-hi0xwkecf3dg1.jpg" alt="pfp" width="150" height="150">
   </a>
-  <h2 align="center">33yx</h2>
+  <h2 align="center">33yc</h2>
   <p align="center">
     Passionate about coding, pentesting, and exploring new technologies! <br />
     Enthusiastic about building innovative solutions, contributing to open-source, and learning continuously. 
@@ -10,7 +10,7 @@
     <br />
     <a href="https://tryhackme.com/p/tilidin">TryHackMe</a> · 
     <a href="https://example.gov">Website</a> · 
-    <a href="https://github.com/heroin1337/Steam-Checker">Favorite Repository</a>
+    <a href="https://github.com/33yc/Steam-Checker">Favorite Repository</a>
   </p>
 </p>
 
