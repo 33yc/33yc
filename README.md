@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/heroin1337/">
-    <img src="https://i.postimg.cc/pdLSTVMn/d13d4ff21ab1da6499957c93836f3534.jpg" alt="pfp" width="150" height="150">
+    <img src="https://i.postimg.cc/CMR9Dsyj/profile-Icon-hi0xwkecf3dg1.jpg" alt="pfp" width="150" height="150">
   </a>
   <h2 align="center">33yx</h2>
   <p align="center">
