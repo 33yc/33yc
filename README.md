@@ -2,7 +2,7 @@
   <a href="https://github.com/heroin1337/">
     <img src="https://i.postimg.cc/pdLSTVMn/d13d4ff21ab1da6499957c93836f3534.jpg" alt="pfp" width="150" height="150">
   </a>
-  <h2 align="center">Name</h2>
+  <h2 align="center">33yx</h2>
   <p align="center">
     Passionate about coding, pentesting, and exploring new technologies! <br />
     Enthusiastic about building innovative solutions, contributing to open-source, and learning continuously. 
